@@ -8,7 +8,7 @@ Test functions for optimization.
 
 3D can be improved, for example, to reduce the values for Z-axis (change scale).
 
-- Youtube:
+- Youtube: https://youtu.be/7a58UoPKWnw
 - Rutube: 
 
 ![image](https://github.com/user-attachments/assets/7c8e5429-c219-4055-ab6c-e3a8f806637a)
